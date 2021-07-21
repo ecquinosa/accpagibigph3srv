@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="accpagibigph3srv.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SYS_DATE" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CONSO_CNTR" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="CONSO_RECARD_CNTR" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="AESKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">p@gIb1gUbp@CC2019</Value>
+    </Setting>
+    <Setting Name="DbaseConStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;</Value>
+    </Setting>
+    <Setting Name="CONSOFC_CNTR" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="CONSOFC_RECARD_CNTR" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="CentralDbaseConStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=10.88.87.68;Database=LCDB_01_SYS;User=allcard;Password=MikasaAckerman#;</Value>
+    </Setting>
+    <Setting Name="accpagibigph3srvZIP_bank_ws_ACC_MS_WEBSERVICE" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1650/ACC_MS_WEBSERVICE.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

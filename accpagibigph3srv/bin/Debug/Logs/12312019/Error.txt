@@ -1,0 +1,4 @@
+[accpagibigph3srvTXT.exe] 12/31/2019 12:29:30 PM PAGIBIGMEMUF123119003.txt failed to update txt in sftp table. Error 
+12/31/2019 12:52:47 PM No daily folder(s) to sync
+12/31/2019 09:40:57 PM No zip file(s) to sync
+12/31/2019 09:43:03 PM No zip file(s) to sync

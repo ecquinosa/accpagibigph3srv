@@ -1,0 +1,27 @@
+[accpagibigph3srvTXT.exe] 01/31/2020 11:10:07 AM Application started [accpagibigph3srvTXT.exe]
+[accpagibigph3srvTXT.exe] 01/31/2020 11:10:07 AM Checking config...
+[accpagibigph3srvTXT.exe] 01/31/2020 11:10:08 AM Init(): Connection to database is success
+[accpagibigph3srvTXT.exe] 01/31/2020 11:10:13 AM DONE_110419030024PAGIBIGMEMUF110419005.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:15:54 AM DONE_110419075528PAGIBIGMEMUF110419006.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:25:50 AM DONE_111219092014PAGIBIGMEMUF111219007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:25:50 AM DONE_111419070938PAGIBIGMEMUF111419007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:25:50 AM DONE_111419095931PAGIBIGMEMUF111419004.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:25:50 AM DONE_112819035745PAGIBIGMEMUF112719039.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:20 AM Application started [accpagibigph3srvTXT.exe]
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:20 AM Checking config...
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:21 AM Init(): Connection to database is success
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:26 AM DONE_111219092014PAGIBIGMEMUF111219007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:26 AM DONE_111419070938PAGIBIGMEMUF111419007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:26 AM DONE_111419095931PAGIBIGMEMUF111419004.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:26 AM DONE_112819035745PAGIBIGMEMUF112719039.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:53 AM Application started [accpagibigph3srvTXT.exe]
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:53 AM Checking config...
+[accpagibigph3srvTXT.exe] 01/31/2020 11:31:54 AM Init(): Connection to database is success
+[accpagibigph3srvTXT.exe] 01/31/2020 11:32:08 AM DONE_111219092014PAGIBIGMEMUF111219007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:33:23 AM Application started [accpagibigph3srvTXT.exe]
+[accpagibigph3srvTXT.exe] 01/31/2020 11:33:23 AM Checking config...
+[accpagibigph3srvTXT.exe] 01/31/2020 11:33:25 AM Init(): Connection to database is success
+[accpagibigph3srvTXT.exe] 01/31/2020 11:33:30 AM DONE_111219092014PAGIBIGMEMUF111219007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:45:27 AM DONE_111419070938PAGIBIGMEMUF111419007.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:54:51 AM DONE_111419095931PAGIBIGMEMUF111419004.txt
+[accpagibigph3srvTXT.exe] 01/31/2020 11:55:51 AM DONE_112819035745PAGIBIGMEMUF112719039.txt

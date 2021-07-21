@@ -1,0 +1,11 @@
+SFTP_HOST=sftp.allcardtech.com.ph
+SFTP_PORT=2022
+SFTP_USER=bayambang
+SFTP_PASS=Argon2016*
+SFTP_SshHostKeyFingerprint=ssh-ed25519 256 20:c3:ed:d6:8b:ef:83:0c:5f:e0:0b:58:78:93:6b:c6
+SFTP_LOCALPATH_UF=F:\PAGIBIG\ACCPAGIBIGPH3\UBP
+SFTP_SFTPPATH_UF_ZIP=/Bayambang/test e/DataCaptureFiles/
+SFTP_SFTPPATH_PAGIBIGMEMUF=/Bayambang/test e/PagibigMemUF/
+SFTP_LOCALPATH_CR=F:\PAGIBIG\ACCPAGIBIGPH3\UBP\RECARD
+SFTP_SFTPPATH_CR_ZIP=/Bayambang/test e/DataCaptureFiles/
+SFTP_SFTPPATH_PAGIBIGMEMCR=/Bayambang/test e/PagibigMemCR/
