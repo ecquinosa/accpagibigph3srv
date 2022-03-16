@@ -1,8 +1,29 @@
-WS_REPO=F:\PAGIBIG\ACCPAGIBIGPH3
-UBP_REPO=F:\PAGIBIG\ACCPAGIBIGPH3\UBP
-PROCESS_INTERVAL_SECONDS=900
-ENCRYPT_PAGIBIGMEM_UF=0
-ENCRYPT_PAGIBIGMEM_CR=1
-SEND_TO_SFTP=0
-GENERATE_CANCELLED_MEMFILE_TIME=03:00 PM-11:00 PM
-DBASE_CONSTR=Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;
+[
+	{
+		"WSRepo": "D:\\WORK\\PAGIBIG\\UBP\\SFTP",
+		"BankRepo": "D:\\WORK\\PAGIBIG\\UBP\\SFTP",		
+		"DbaseConStr": "Server=10.88.87.68;Database=LCDB_01;User=allcard;Password=MikasaAckerman#;",		
+		"SftpHost": "sftp.allcardtech.com.ph",
+		"SftpPort": 2022,
+		"SftpUser": "bayambang",
+		"SftpPass": "Argon2016*",
+		"SftpKeyPath": "",
+		"SftpSshHostKeyFingerprint": "ssh-ed25519 256 20:c3:ed:d6:8b:ef:83:0c:5f:e0:0b:58:78:93:6b:c6",
+		"SftpLocalPathUF": "D:\\WORK\\PAGIBIG\\UBP\\SFTP",
+		"SftpLocalPathCR": "D:\\WORK\\PAGIBIG\\UBP\\SFTP\\RECARD",
+		"SftpRemotePathUF": "/Bayambang/test e/PagibigMemUF/",
+		"SftpRemotePathCR": "/Bayambang/test e/PagibigMemCR/",
+		"SftpRemotePathUF_Zip": "/Bayambang/test e/DataCaptureFiles/",
+		"SftpRemotePathCR_Zip": "/Bayambang/test e/DataCaptureFiles/ForCardReplacement/",
+		"SendToSftp": 1,
+		"BankWS": "http://172.16.7.171:82/",
+		"ProcessInterval": 120,
+		"EncryptPagibigMemUF": 0,
+		"EncryptPagibigMemCR": 1,
+		"GenerateCancelledMemFileFrom": "03:00 PM",
+		"GenerateCancelledMemFileTo": "11:00 PM",
+		"WinScpSessionTimeout": 1,
+		"WorkingFolders": "DONE,FOR_TRANSFER_ZIP,FOR_PAGIBIGMEMCONSO,FOR_PAGIBIGMEMCONSO_FC,FOR_ZIP_PROCESS,FOR_TRANSFER_MEM,EXCEPTIONS",
+		"ReservedFolders": "archives,RECARD"
+	}
+]

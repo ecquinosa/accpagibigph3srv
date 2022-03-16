@@ -38,7 +38,7 @@ namespace accpagibigph3srv
 
         public DAL()
         {
-            
+            ConStr = Utilities.ConStr;
         }
 
         public DAL(bool IsCentralDB)
@@ -295,7 +295,7 @@ namespace accpagibigph3srv
                 //cmd.Parameters.AddWithValue("RefNum", refNum);
                 //cmd.Parameters.AddWithValue("PagIBIGID", pagIBIGID);
                 cmd.Parameters.AddWithValue("GUID", Utilities.EncryptData(GUID));
-                
+
                 ExecuteNonQuery(CommandType.StoredProcedure);
 
                 return true;
@@ -338,7 +338,7 @@ namespace accpagibigph3srv
                 cmd.Parameters.AddWithValue("Remark", pagibiMemFileName);
                 cmd.Parameters.AddWithValue("PagIBIGID", pagIBIGID);
                 cmd.Parameters.AddWithValue("GUID", Utilities.EncryptData(GUID));
-                
+
                 ExecuteNonQuery(CommandType.Text);
 
                 return true;
@@ -377,7 +377,7 @@ namespace accpagibigph3srv
             try
             {
                 OpenConnection();
-                if(type=="TXT")
+                if (type == "TXT")
                     cmd = new SqlCommand("UPDATE tbl_SFTP SET SFTPTransferDate=GETDATE() WHERE GUID=@GUID AND Type=@Type AND PagIbigMemConsoDate IS NOT NULL AND SFTPTransferDate IS NULL", con);
                 else
                     cmd = new SqlCommand("UPDATE tbl_SFTP SET SFTPTransferDate=GETDATE() WHERE GUID=@GUID AND Type=@Type AND ZipProcessDate IS NOT NULL AND SFTPTransferDate IS NULL", con);
@@ -427,7 +427,7 @@ namespace accpagibigph3srv
             {
                 OpenConnection();
                 cmd = new SqlCommand("UPDATE tbl_SFTP SET SFTPTransferDate=GETDATE() WHERE Remark=@Remark AND Type='TXT' AND PagIbigMemConsoDate IS NOT NULL AND SFTPTransferDate IS NULL", con);
-                
+
                 cmd.Parameters.AddWithValue("Remark", pagibigMemFileName);
 
                 ExecuteNonQuery(CommandType.Text);

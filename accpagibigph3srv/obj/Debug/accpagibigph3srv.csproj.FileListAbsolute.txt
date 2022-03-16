@@ -15,12 +15,6 @@ I:\EDEL QUINOSA\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csp
 I:\EDEL QUINOSA\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.CopyComplete
 I:\EDEL QUINOSA\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csprojAssemblyReference.cache
 D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.CopyComplete
-D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csprojAssemblyReference.cache
-D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvZIP.exe.config
-D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvZIP.exe
-D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvZIP.pdb
-D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srvZIP.exe
-D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srvZIP.pdb
 I:\EDEL QUINOSA\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvZIP.exe.config
 I:\EDEL QUINOSA\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvZIP.exe
 I:\EDEL QUINOSA\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvZIP.pdb
@@ -31,3 +25,13 @@ F:\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvTXT.exe
 F:\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvTXT.pdb
 F:\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srvTXT.exe
 F:\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srvTXT.pdb
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.AssemblyReference.cache
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\WinSCPnet.dll
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvTXT.exe.config
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvTXT.exe
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\bin\Debug\accpagibigph3srvTXT.pdb
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srvTXT.exe
+D:\WORK\Projects\accpagibigph3srv\accpagibigph3srv\obj\Debug\accpagibigph3srvTXT.pdb
